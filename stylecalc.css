@@ -1,0 +1,86 @@
+body {
+    background-image: radial-gradient(#e21c34, #500b28);
+    font-size: 15px;
+}
+
+#conteiner {
+    height: 550px;
+    width: 360px;
+    margin: 100px auto;
+    box-shadow: 5px 8px 10px 8px;
+    border-radius: 10px;
+    font-family: 'Vast Shadow', cursive;
+}
+
+.title {
+color: black;
+padding: 25px 35px 25px 25px;
+font-family: 'Vast Shadow', cursive;
+font-size: 20px;
+font-weight: bolder;
+text-align: center;
+text-shadow: white 0 0 0.2em;
+
+}
+
+.tipsForm {
+    padding-left: 20px; 
+    padding-right: 20px;
+    font-style: italic;
+}
+
+.formInput {
+    background: white;
+    width: 38px;
+    padding: 4px 4px 8px 8px;
+    border-radius: 5px;
+}
+
+.formInput:focus {
+    border: 3px solid;
+    outline: none;
+}
+
+.formSelect {
+    width: 180px;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+.formSelect:focus {
+    border: 3px solid;
+}
+
+#calc {
+    background-image: radial-gradient(#e21c34, #500b28);
+    font-family: 'Vast Shadow', cursive;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 30px auto;
+    display: block;
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    border-radius: 10px 10px ;
+    box-shadow: #3f041d 5px 5px 5px 5px;
+}
+
+#totalTip {
+    font-family: 'Vast Shadow', cursive;
+    text-transform: uppercase;
+    text-align: center;
+    color:black;
+    text-shadow: white 0 0 0.3em;
+}
+
+#rodape {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#rodape a {
+    color: white;
+   
+}

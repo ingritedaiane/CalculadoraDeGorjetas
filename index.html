@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>Calculadora de Gorgetas</title>
+    <link rel="stylesheet" href="stylecalc.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <div id="conteiner">
+    <div>
+        <h1 class="title">Calculadora de Gorgetas</h1></title>
+    </div>
+    <div>
+        <form class="tipsForm" id="tipsForm">
+        <label for="bill">
+        <p>Quanto ficou a conta?</p>
+        </label>
+        <p>
+            R$ <input type="number" placeholder="100" name="bill" id="bill" class="formInput" required="">
+        </p>
+        <label for="serviceQual">
+            <p>Qual a avaliação do serviço?</p>
+        </label>
+        <p>
+        <select name="serviceQual" id="serviceQual" class="formSelect" required="">
+            <option disable selected value = "0" >--Escolha uma opção:</option>
+            <option value="0.3">30% - Incrível</option>
+            <option value="0.2">20% - Bom</option>
+            <option value="0.15">15% - Aceitavél</option>
+            <option value="0.1">10% - Ruim</option>
+            <option value="0.05">05% - Péssimo</option>
+        </select>
+        <p>
+            <label for="people">
+                <p>Quantas pessoas vão dividir a conta?</p>
+            </label>
+            <p>
+                <input type="number" placeholder="1" name="people" id="people" class="formInput" required=""> pessoa(as)
+            </p>
+            <button id="calc" class="formSubmit" type="submit">Calcular!</button>
+    </form>
+    </div>
+        <div id="totalTip">
+        <i class="fa-solid fa-hand-holding-dollar"></i>
+        Gorgeta Total: R$ <span id="tip">0.00</span>
+        <p id="each">Para cada pessoa</p>
+        </div>
+    </div>
+    <div id="rodape">
+    Criado com ❤ por <a href="https://onebitcode.com/lp/">OneBitCode</a> • 2022<br>
+    Dê você também um 
+    <a href="https://start.onebitcode.com/" target="_blank">Start Na Sua Carreira</a> {🤘}
+<script type="text/javascript" src="scriptCalc.js"></script>
+</body>
+</html>
