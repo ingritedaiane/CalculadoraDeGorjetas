@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </h1>
 
-📌 <a href="https://ingritedaiane.github.io/Calculadora-de-Gorjetas/" target="_blank"> Clique aqui para vizualizar o projeto ( to view click here )</a> 📌
+📌 <a href="https://ingritedaiane.github.io/Calculadora-de-Gorjetas/" target="_blank"> Clique aqui para vizualizar o projeto. ( to view click here )</a> 📌
 </div>
