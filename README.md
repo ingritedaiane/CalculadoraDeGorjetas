@@ -1,6 +1,11 @@
 <div align="center">
 <img src="https://start.onebitcode.com/images/start-logoggg.png" width="300px">
+<<<<<<< HEAD
 <img src="calculadoraresult.png" width="200px">
+=======
+
+
+>>>>>>> c2b801289b357ec0ffa05db4dcb664c0c119d5f3
 <h1>Feito com a base da web!<br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -8,4 +13,8 @@
 </h1>
 
 📌 <a href="https://ingritedaiane.github.io/Calculadora-de-Gorjetas/" target="_blank"> Clique aqui para vizualizar o projeto. ( to view click here )</a> 📌
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> c2b801289b357ec0ffa05db4dcb664c0c119d5f3
