@@ -9,6 +9,6 @@
 </h1>
 Mini curso gratuito OneBitCode
 
-📌 <a href="https://ingritedaiane.github.io/Calculadora-de-Gorjetas/" target="_blank"> Clique aqui para vizualizar o projeto. ( to view click here )</a> 📌
+📌 <a href="https://ingritedaiane.github.io/CalculadoraDeGorjetas/" target="_blank"> Clique aqui para vizualizar o projeto. ( to view click here )</a> 📌
 </div>
 
